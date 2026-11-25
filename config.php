@@ -5,7 +5,7 @@ declare(strict_types=1);
 return [
     // Replace this with a NEW random 64-character token.
     // The same token must be used in your NuGet source URL.
-    'access_token' => '6d497945c4b02786c18edd4cea218816',
+    'access_token' => 'YOUR_SECRET_TOKEN',
 
     // PHP temporary storage. A private Nexora-specific folder is created inside it.
     // If sys_get_temp_dir() is not writable on your host, set an absolute writable path.
